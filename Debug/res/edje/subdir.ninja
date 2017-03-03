@@ -1,0 +1,13 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+edctool = edje_cc
+edcflags = -id "../edje/images" -id "/Users/bilgin/tizen-studio-1/tools/edc-editor/share/enventor/images" -sd "../edje/sounds" -sd "/Users/bilgin/tizen-studio-1/tools/edc-editor/share/enventor/sounds" -fd "../edje/fonts" -fd "/Users/bilgin/tizen-studio-1/tools/edc-editor/share/enventor/fonts"
+
+build res/edje/data.edj: build_edc ../res/edje/data.edc 
+build res/edje/example.edj: build_edc ../res/edje/example.edc 
+build res/edje/indicator.edj: build_edc ../res/edje/indicator.edc 
+build res/edje/information.edj: build_edc ../res/edje/information.edc 
+build res/edje/main.edj: build_edc ../res/edje/main.edc 
